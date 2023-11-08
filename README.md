@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burcineren
 - 👀 I’m interested in Angular
-- 🌱 I’m currently learning Angular, Typescript
+- 🌱 I’m currently learning Angular, Javascript, Typescript
 - 📫 How to reach me burcineren44@gmail.com
 - 💬 Ask me anything about Frontend Development - Angular, Vue.js, Node.js and JavaScript
 
