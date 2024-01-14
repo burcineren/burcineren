@@ -14,5 +14,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=burcineren&theme=onedark&show_icons=true" height="150" alt="stats graph"  />
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burcineren&show_icons=true&theme=onedark)" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=burcineren&show_icons=true&theme=onedark" height="150" alt="languages graph"  />
 </div>
