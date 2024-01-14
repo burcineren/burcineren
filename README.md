@@ -12,7 +12,7 @@
   <img src="https://visitcount.itsvg.in/api?id=burcineren&label=Profile%20Views&icon=0&pretty=false" />
 </a>
 
-<!---
-burcineren/burcineren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=burcineren&theme=onedark&show_icons=true" height="150" alt="stats graph"  />
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burcineren&show_icons=true&theme=onedark)" height="150" alt="languages graph"  />
+</div>
