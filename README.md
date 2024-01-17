@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @burcineren
-- 👀 I’m interested in Angular
+- 👀 I’m interested in Angular, Vue.js and React
 - 🌱 I’m currently learning Angular, Javascript, Typescript
 - 📫 How to reach me burcineren44@gmail.com
 - 💬 Ask me anything about Frontend Development - Angular, Vue.js, Node.js and JavaScript
