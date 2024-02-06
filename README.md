@@ -1,3 +1,6 @@
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="400" height="220" />
+
 - 👋 Hi, I’m @burcineren
 - 👀 I’m interested in Angular, Vue.js and React
 - 🌱 I’m currently learning Angular, Javascript, Typescript
