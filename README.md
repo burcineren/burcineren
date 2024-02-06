@@ -15,10 +15,10 @@
   <img src="https://visitcount.itsvg.in/api?id=burcineren&label=Profile%20Views&icon=0&pretty=false&color=11" />
 </a>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=burcineren&theme=buefy&show_icons=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=burcineren&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=burcineren&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=burcineren&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
