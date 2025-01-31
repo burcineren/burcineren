@@ -6,9 +6,7 @@
 - 🌱 I’m currently learning Angular, Javascript, Typescript
 - 📫 How to reach me burcineren44@gmail.com
 - 💬 Ask me anything about Frontend Development - Angular, Vue.js, Node.js and JavaScript
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=burcineren&label=Profile%20Views&icon=0&pretty=false&color=7" />
-</a>
+![](https://komarev.com/ghpvc/?burcineren&color=blueviolet)
 
 <br/> <br/>
 # 💻 Tech Stack:
