@@ -5,7 +5,7 @@
 - 👀 I’m interested in Angular, Vue.js and React
 - 🌱 I’m currently learning Angular, Javascript, Typescript
 - 📫 How to reach me burcineren44@gmail.com
-- 💬 Ask me anything about Frontend Development - Angular, Vue.js, Node.js and JavaScript
+- 💬 Ask me anything about Frontend Development - JavaScript, TypeScript, Angular, React, Next.js, Vue.js, Node.js 
 
 
 <br/> <br/>
