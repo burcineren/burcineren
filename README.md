@@ -8,7 +8,7 @@
 - 💬 Ask me anything about Software Development - JavaScript, TypeScript, Angular, React, Next.js, Vue.js, Node.js
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9AB8D&center=true&vCenter=true&width=500&lines=Software+Developer;Building+Scalable+Applications;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9AB8D&left=true&vLeft=true&width=500&lines=Software+Developer;Building+Scalable+Applications;Always+Learning+New+Things" />
 </p>
 <br/> <br/>
 
