@@ -7,8 +7,8 @@
 - 📫 How to reach me burcineren44@gmail.com
 - 💬 Ask me anything about Software Development - JavaScript, TypeScript, Angular, React, Next.js, Vue.js, Node.js
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Software+Developer;Building+Scalable+Applications;Always+Learning+New+Things" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9AB8D&center=true&vCenter=true&width=500&lines=Software+Developer;Building+Scalable+Applications;Always+Learning+New+Things" />
 </p>
 <br/> <br/>
 
