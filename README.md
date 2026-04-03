@@ -1,15 +1,16 @@
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="3<00" height="220" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Software+Developer;Building+Scalable+Applications;Always+Learning+New+Things" />
-</p>
 - 👋 Hi, I’m @burcineren
 - 👀 I’m interested in Angular, Vue.js and React
 - 🌱 I’m currently learning Angular, Javascript, Typescript
 - 📫 How to reach me burcineren44@gmail.com
 - 💬 Ask me anything about Software Development - JavaScript, TypeScript, Angular, React, Next.js, Vue.js, Node.js
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Software+Developer;Building+Scalable+Applications;Always+Learning+New+Things" />
+</p>
+<br/> <br/>
 
   ![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=burcineren&repo=burcineren&countColor=%237B1E7A)
 
