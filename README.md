@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Angular, Javascript, Typescript
 - 📫 How to reach me burcineren44@gmail.com
 - 💬 Ask me anything about Software Development - JavaScript, TypeScript, Angular, React, Next.js, Vue.js, Node.js
-
+<br/>
   ![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=burcineren&repo=burcineren&countColor=%237B1E7A)
 
 
